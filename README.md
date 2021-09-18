@@ -1,2 +1,2 @@
-# SVO
-Sparse Voxel Octree Learning and experimentation.
+# VoxelTracing
+A Voxel Tracer
